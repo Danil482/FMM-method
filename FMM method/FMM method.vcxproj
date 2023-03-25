@@ -130,7 +130,10 @@
     <ClCompile Include="FMM method.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Charge.h" />
+    <ClInclude Include="Header.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="testCharge.h" />
     <ClInclude Include="testPoint.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,4 +1,4 @@
-#include<cmath>
+#include"Header.h"
 // Define a struct for a 3D point with x, y, and z coordinates
 struct Point {
     double x, y, z; // coordinates of the charge

@@ -1,6 +1,4 @@
-#pragma once
-#include "Point.h"
-#include <iostream>
+#include "Header.h"
 bool testPoint_length()
 {
 	Point corner1{ 0.0,0.0,0.0 };

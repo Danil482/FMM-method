@@ -32,5 +32,14 @@
     <ClInclude Include="testPoint.h">
       <Filter>tests</Filter>
     </ClInclude>
+    <ClInclude Include="Charge.h">
+      <Filter>structs</Filter>
+    </ClInclude>
+    <ClInclude Include="testCharge.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
