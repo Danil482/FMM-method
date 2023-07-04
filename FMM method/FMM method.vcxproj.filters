@@ -19,6 +19,12 @@
     <Filter Include="structs">
       <UniqueIdentifier>{4dd28135-18de-455b-93ab-c2d61b25e653}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Fucntions">
+      <UniqueIdentifier>{cf240c06-fd8d-4467-ad8f-a4240ca1f391}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tasks">
+      <UniqueIdentifier>{8819798f-f6a3-42d1-9a62-e92b18796f74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FMM method.cpp">
@@ -40,6 +46,21 @@
     </ClInclude>
     <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>structs</Filter>
+    </ClInclude>
+    <ClInclude Include="testNode.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Fucntions</Filter>
+    </ClInclude>
+    <ClInclude Include="testFunctions.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Task1.h">
+      <Filter>Tasks</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,27 @@
+﻿  FMM method.cpp
+D:\Microsofy Visual Studio 2022\FMM method\FMM method\testFunctions.h(93,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Microsofy Visual Studio 2022\FMM method\FMM method\testFunctions.h(148,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Microsofy Visual Studio 2022\FMM method\FMM method\Task1.h(8,96): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Microsofy Visual Studio 2022\FMM method\FMM method\Task1.h(201,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Microsofy Visual Studio 2022\VC\Tools\MSVC\14.34.31933\include\xutility(224,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Microsofy Visual Studio 2022\VC\Tools\MSVC\14.34.31933\include\memory(2023,1): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,unsigned __int64,unsigned __int64,Point&,Point&>(_Ty &,unsigned __int64 &&,unsigned __int64 &&,Point &,Point &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Node
+          ]
+D:\Microsofy Visual Studio 2022\VC\Tools\MSVC\14.34.31933\include\memory(2703,36): message : see reference to function template instantiation 'std::_Ref_count_obj2<Node>::_Ref_count_obj2<_Ty,_Ty,Point&,Point&>(_Ty &&,_Ty &&,Point &,Point &)' being compiled
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+D:\Microsofy Visual Studio 2022\VC\Tools\MSVC\14.34.31933\include\memory(2704,20): message : see reference to function template instantiation 'std::_Ref_count_obj2<Node>::_Ref_count_obj2<_Ty,_Ty,Point&,Point&>(_Ty &&,_Ty &&,Point &,Point &)' being compiled
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+D:\Microsofy Visual Studio 2022\FMM method\FMM method\Functions.h(52,110): message : see reference to function template instantiation 'std::shared_ptr<Node> std::make_shared<Node,unsigned __int64,size_t,Point&,Point&>(unsigned __int64 &&,size_t &&,Point &,Point &)' being compiled
+  FMM method.vcxproj -> D:\Microsofy Visual Studio 2022\FMM method\x64\Debug\FMM method.exe

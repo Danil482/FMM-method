@@ -131,9 +131,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Charge.h" />
+    <ClInclude Include="Functions.h" />
     <ClInclude Include="Header.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Task1.h" />
     <ClInclude Include="testCharge.h" />
+    <ClInclude Include="testFunctions.h" />
+    <ClInclude Include="testNode.h" />
     <ClInclude Include="testPoint.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

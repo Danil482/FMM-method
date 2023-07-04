@@ -1,10 +1,10 @@
 #include"Header.h"
 bool test_charge_det_operator()
 {
-	Point p1{ 1.0,1.0,1.0 };
+	Point p1{ 1.0,1.0 };
 	Charge charge{ p1,10 };
 	charge = charge / 10;
-	if(charge.location == Point {0.1,0.1,0.1} && charge.value == 1)
+	if(charge.location == Point {0.1,0.1} && charge.value == 1)
 	{
 		return true;
 	}
